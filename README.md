@@ -9,6 +9,10 @@ The application uses the Gemma 3:1B language model through Ollama to examine mes
 
 It helps users understand why a message may be suspicious and suggests safety actions to avoid online scams.
 
+## Demo Link
+
+https://scam-message-investigation-rfctwgwzo93kzmkneb4s73.streamlit.app/
+
 ## Features
 
 - Analyze suspicious SMS and email messages.
